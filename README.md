@@ -72,3 +72,10 @@ The system answers strictly based on invoice content
 
 If information is missing, the system responds with:
 "Not mentioned in invoice"
+
+## Screenshots
+
+### Invoice Question Answering Output
+
+**Sample queries**
+![Sample Queries](Screenshots/Screenshot(105).png)
