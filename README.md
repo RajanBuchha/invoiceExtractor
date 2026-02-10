@@ -78,4 +78,4 @@ If information is missing, the system responds with:
 ### Invoice Question Answering Output
 
 **Sample queries**
-![Sample Queries](Screenshots/Screenshot(105).png)
+![Sample Queries](Screenshots/ouput.png)
