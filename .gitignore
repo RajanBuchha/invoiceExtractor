@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.cache/
+.huggingface/
+faiss.index
+chunks.npy
+invoice_text.txt
