@@ -50,15 +50,14 @@ Invoice PDF
 ## How to Run
 
 ### Step 1: Install dependencies
-pip install -r requirements.txt
 
 ### Step 2: Run setup (only once)
-python setup_once.py
+python setup.py
 This step extracts text from the invoice, creates embeddings, and builds the
 FAISS index.
 
 ### Step 3: Ask questions
-python app.py
+python main.py
 
 Example Questions:
 What is the invoice number?
