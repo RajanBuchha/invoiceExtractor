@@ -1,0 +1,8 @@
+pdf2image
+pytesseract
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+numpy
+Pillow
